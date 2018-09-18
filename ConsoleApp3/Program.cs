@@ -14,7 +14,7 @@ namespace ConsoleApp3
             // create instance of  Hest
             Hest minHest = new Hest();
             Hest minAndenHest = new Hest();
-
+            //test
             minHest.Run();
             minAndenHest.Run();
         }
